@@ -17,8 +17,7 @@
   Ferramenta Python que classifica arquivos automaticamente por tipo, com CLI e logs.  
 
 ### 💻 Habilidades Técnicas  
-**Linguagens:** C++, C, Python  
-**Ferramentas:** Git, Raylib, Make  
+**Linguagens:** C++, C, Python
 
 ### 📫 Contato  
 LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
@@ -40,8 +39,7 @@ Email: teixeirapedro482@gmail.com
   Python tool that auto-sorts files by type, featuring CLI and logging.  
 
 ### 💻 Technical Skills  
-**Languages:** C++, C, Python  
-**Tools:** Git, Raylib, Make  
+**Languages:** C++, C, Python
 
 ### 📬 Contact  
 LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
