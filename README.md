@@ -1,21 +1,50 @@
-# Hello, I'm Pedro Teixeira 👋  
+# 🌎 Idioma / Language  
+[🇧🇷 Português](#-sobre-mim) | [🇺🇸 English](#-about-me)  
 
-**Computer Science Student** focused on C/C++, algorithms, and systems development.  
+---
 
-## 🚀 Featured Projects  
+## 🇧🇷 Sobre Mim  
+**Estudante de Ciência da Computação** com foco em C/C++, algoritmos e desenvolvimento de sistemas.  
 
-- [🐍 **Snake Game in C++**](https://github.com/Pedr88/snake-game-cpp)  
-  Classic arcade game built with Raylib using OOP principles. Features grid-based movement, dynamic snake growth, score system, and collision detection.  
+### 🚀 Projetos Destacados  
+- [🐍 **Snake Game em C++**](https://github.com/Pedr88/snake-game-cpp)  
+  Jogo clássico desenvolvido com Raylib e POO. Implementa movimento em grid, crescimento dinâmico e sistema de colisões.  
 
-- [⚡ **Sorting & Search Algorithms**](https://github.com/Pedr88/simulador-ordenacao-busca-cpp)  
-  C++ benchmark comparing efficiency of algorithms (Bubble Sort, Quick Sort, Binary Search) with runtime measurement and complexity analysis.  
+- [⚡ **Algoritmos de Ordenação**](https://github.com/Pedr88/simulador-ordenacao-busca-cpp)  
+  Benchmark comparativo (Bubble Sort, Quick Sort) com medição de tempo de execução em C++.  
 
-- [🗃️ **File Organizer in Python**](https://github.com/Pedr88/organizador-de-arquivos)  
-  CLI tool that automates file organization by type (documents, images, videos). Includes dry-run mode, logging system, and robust error handling.
+- [🗃️ **Organizador de Arquivos**](https://github.com/Pedr88/organizador-de-arquivos)  
+  Ferramenta Python que classifica arquivos automaticamente por tipo, com CLI e logs.  
 
-## 💻 Technical Skills  
-**Languages:** C++, C, Python  
+### 💻 Habilidades Técnicas  
+**Linguagens:** C++, C, Python  
+**Ferramentas:** Git, Raylib, Make  
 
-## 📬 Contact  
+### 📫 Contato  
 LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
 Email: teixeirapedro482@gmail.com  
+
+---
+
+## 🇺🇸 About Me  
+**Computer Science Student** focused on C/C++, algorithms, and systems development.  
+
+### 🚀 Featured Projects  
+- [🐍 **Snake Game in C++**](https://github.com/Pedr88/snake-game-cpp)  
+  Classic arcade game built with Raylib using OOP. Features grid movement, dynamic growth, and collision system.  
+
+- [⚡ **Sorting Algorithms**](https://github.com/Pedr88/simulador-ordenacao-busca-cpp)  
+  C++ benchmark comparing Bubble Sort vs Quick Sort with runtime analysis.  
+
+- [🗃️ **File Organizer**](https://github.com/Pedr88/organizador-de-arquivos)  
+  Python tool that auto-sorts files by type, featuring CLI and logging.  
+
+### 💻 Technical Skills  
+**Languages:** C++, C, Python  
+**Tools:** Git, Raylib, Make  
+
+### 📬 Contact  
+LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
+Email: teixeirapedro482@gmail.com  
+
+[⬆️ Back to top](#-idioma--language)
