@@ -1,48 +1,58 @@
-# 🌎 Idioma / Language  
-[🇧🇷 Português](#-sobre-mim) | [🇺🇸 English](#-about-me)  
+# Pedro Teixeira 👋
+
+🎓 **Estudante de Ciência da Computação**  
+💻 **Java | Python | Programação Orientada a Objetos**  
+📍 Rio de Janeiro, Brasil
 
 ---
 
-## 🇧🇷 Sobre Mim  
-**Estudante de Ciência da Computação** com foco em C/C++, algoritmos e desenvolvimento de sistemas.  
+## 👨‍💻 Sobre mim
 
-### 🚀 Projetos Destacados  
-- [🐍 **Snake Game em C++**](https://github.com/Pedr88/snake-game-cpp)  
-  Jogo clássico desenvolvido com Raylib e POO. Implementa movimento em grid, crescimento dinâmico e sistema de colisões.  
+Sou estudante de **Ciência da Computação**, atualmente em busca da **primeira oportunidade na área de Tecnologia da Informação**.
 
-- [⚡ **Algoritmos de Ordenação**](https://github.com/Pedr88/simulador-ordenacao-busca-cpp)  
-  Benchmark comparativo (Bubble Sort, Quick Sort) com medição de tempo de execução em C++.  
+Tenho conhecimentos em **Java** e **Python**, aplicados em **projetos acadêmicos e pessoais**, com foco em:
+- Lógica de programação  
+- Programação Orientada a Objetos (POO)  
+- Automação de processos  
+- Testes unitários  
 
-- [🗃️ **Organizador de Arquivos**](https://github.com/Pedr88/organizador-de-arquivos)  
-  Ferramenta Python que classifica arquivos automaticamente por tipo, com CLI e logs.  
-
-### 💻 Habilidades Técnicas  
-**Linguagens:** C++, C, Python
-
-### 📫 Contato  
-LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
-Email: teixeirapedro482@gmail.com  
+Tenho interesse em aprender na prática, evoluir tecnicamente e contribuir em ambientes que valorizem boas práticas de desenvolvimento.
 
 ---
 
-## 🇺🇸 About Me  
-**Computer Science Student** focused on C/C++, algorithms, and systems development.  
+## 🛠️ Tecnologias & Ferramentas
 
-### 🚀 Featured Projects  
-- [🐍 **Snake Game in C++**](https://github.com/Pedr88/snake-game-cpp)  
-  Classic arcade game built with Raylib using OOP. Features grid movement, dynamic growth, and collision system.  
+- **Linguagens:** Java, Python, C  
+- **Testes:** JUnit  
+- **Build:** Maven  
+- **Versionamento:** Git, GitHub  
+- **Outros:** CLI, Automação de tarefas
 
-- [⚡ **Sorting Algorithms**](https://github.com/Pedr88/simulador-ordenacao-busca-cpp)  
-  C++ benchmark comparing Bubble Sort vs Quick Sort with runtime analysis.  
+---
 
-- [🗃️ **File Organizer**](https://github.com/Pedr88/organizador-de-arquivos)  
-  Python tool that auto-sorts files by type, featuring CLI and logging.  
+## 📌 Projetos em destaque
 
-### 💻 Technical Skills  
-**Languages:** C++, C, Python
+### 🔹 Regra de Progressão em Java
+Aplicação em Java para cálculo de média ponderada de notas, com validação de pesos e testes unitários.  
+🔗 [https://github.com/Pedr88/regra-de-progressao](https://github.com/Pedr88/regra-de-progressao)
 
-### 📬 Contact  
-LinkedIn: [pedro-teixeira](https://www.linkedin.com/in/pedro-teixeira-63a031324/)  
-Email: teixeirapedro482@gmail.com  
+### 🔹 Sistema de Votação em Java
+Sistema de votação via linha de comando, com cadastro de candidatos e eleitores, regras de negócio e apuração de resultados.  
+🔗 [https://github.com/Pedr88/sistema-de-votacao](https://github.com/Pedr88/sistema-de-votacao)
 
-[⬆️ Back to top](#-idioma--language)
+### 🔹 Organizador de Arquivos em Python
+Script em Python para organização automática de arquivos por tipo, com suporte a argumentos CLI, logging e modo de simulação.  
+🔗 [https://github.com/Pedr88/organizador-de-arquivos](https://github.com/Pedr88/organizador-de-arquivos)
+
+---
+
+## 🌎 Idiomas
+
+- **Inglês:** Avançado
+
+---
+
+## 📫 Contato
+
+- 📧 Email: teixeira.pedro2701@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pedro-teixeira-0833003a7/
