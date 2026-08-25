@@ -1,58 +1,110 @@
-# Pedro Teixeira 👋
+# Hi, I'm Pedro Teixeira 👋
 
-🎓 **Estudante de Ciência da Computação**  
-💻 **Java | Python | Programação Orientada a Objetos**  
-📍 Rio de Janeiro, Brasil
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Ciência da Computação**, atualmente em busca da **primeira oportunidade na área de Tecnologia da Informação**.
-
-Tenho conhecimentos em **Java** e **Python**, aplicados em **projetos acadêmicos e pessoais**, com foco em:
-- Lógica de programação  
-- Programação Orientada a Objetos (POO)  
-- Automação de processos  
-- Testes unitários  
-
-Tenho interesse em aprender na prática, evoluir tecnicamente e contribuir em ambientes que valorizem boas práticas de desenvolvimento.
+🎓 Computer Science student  
+🔐 Interested in Cybersecurity & Information Security  
+🐧 Linux | 🌐 Networking | 🐍 Python | 🗄️ SQL  
+📍 Rio de Janeiro, Brazil
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## About Me
 
-- **Linguagens:** Java, Python, C  
-- **Testes:** JUnit  
-- **Build:** Maven  
-- **Versionamento:** Git, GitHub  
-- **Outros:** CLI, Automação de tarefas
+I'm a Computer Science student currently looking for my first professional opportunity in Information Technology.
 
----
+My main interests are **Cybersecurity, Information Security, IT Infrastructure, Networking and Technical Support**.
 
-## 📌 Projetos em destaque
+I'm currently developing my knowledge through university studies, cybersecurity courses and practical projects. I enjoy understanding how systems work, solving problems and turning what I learn into small, practical tools.
 
-### 🔹 Regra de Progressão em Java
-Aplicação em Java para cálculo de média ponderada de notas, com validação de pesos e testes unitários.  
-🔗 [https://github.com/Pedr88/regra-de-progressao](https://github.com/Pedr88/regra-de-progressao)
+I'm particularly interested in building a strong foundation in:
 
-### 🔹 Sistema de Votação em Java
-Sistema de votação via linha de comando, com cadastro de candidatos e eleitores, regras de negócio e apuração de resultados.  
-🔗 [https://github.com/Pedr88/sistema-de-votacao](https://github.com/Pedr88/sistema-de-votacao)
-
-### 🔹 Organizador de Arquivos em Python
-Script em Python para organização automática de arquivos por tipo, com suporte a argumentos CLI, logging e modo de simulação.  
-🔗 [https://github.com/Pedr88/organizador-de-arquivos](https://github.com/Pedr88/organizador-de-arquivos)
+- Computer Networks
+- Linux and Windows
+- Information Security
+- Python
+- SQL and Databases
+- System Administration
+- Troubleshooting
+- Git and GitHub
 
 ---
 
-## 🌎 Idiomas
+## 🛠️ Technologies & Tools
 
-- **Inglês:** Avançado
+### Programming
+- Python
+- Java
+- C
+
+### Cybersecurity & Infrastructure
+- Linux
+- Windows
+- TCP/IP fundamentals
+- Networking fundamentals
+- Security fundamentals
+- Bash
+
+### Databases
+- SQL
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- WSL
 
 ---
 
-## 📫 Contato
+## 🔐 Cybersecurity Projects
 
-- 📧 Email: teixeira.pedro2701@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pedro-teixeira-0833003a7/
+### Password Generator
+Educational Python project focused on generating secure random passwords and practicing basic cybersecurity concepts.
+
+🔗 [View repository](https://github.com/Pedr88/password-generator)
+
+### Simple Port Scanner
+Educational TCP port scanner developed in Python to study networking, sockets and basic cybersecurity concepts.
+
+🔗 [View repository](https://github.com/Pedr88/simple-port-scanner)
+
+### Linux Security Checker
+Bash-based tool for performing basic security checks on Linux systems.
+
+🔗 [View repository](https://github.com/Pedr88/linux-security-checker)
+
+### Security Log Analyzer
+Python tool for analyzing authentication logs and identifying potentially suspicious login activity.
+
+🔗 [View repository](https://github.com/Pedr88/security-log-analyzer)
+
+---
+
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals
+- Computer Networks
+- Linux
+- Python
+- SQL
+- Information Security
+- IT Infrastructure
+
+---
+
+## 🎯 Career Goals
+
+I'm looking for my first opportunity in IT, especially in areas such as:
+
+- Cybersecurity
+- Information Security
+- IT Infrastructure
+- Networking
+- Technical Support
+
+I'm interested in learning from experienced professionals, contributing to real-world projects and continuously improving my technical skills.
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: [Pedro Teixeira](https://www.linkedin.com/in/pedro-teixeira-0833003a7/)
+- 📧 Email: teixeira.pedro2701@gmail.com
